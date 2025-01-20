@@ -1,0 +1,9 @@
+- A linguagem JS é case sensitive
+- No JS ";" é opicional
+- Pode-se usar tanto "" quanto ''
+
+Para criar variavel podemos usar o Var ou Let 
+
+Assim como CSS, o JavaScript pode ser trabalhado no codigo do HTML
+ou fora, usando a Tag: 
+<script src="Nome do arquivo"></script>
